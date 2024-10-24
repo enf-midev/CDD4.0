@@ -3,4 +3,4 @@ b = 5
 c = a
 a = b
 b = c
-print(f"A:{b}, B:{a}")
+print(f"A:{b}, B:{a} ")
